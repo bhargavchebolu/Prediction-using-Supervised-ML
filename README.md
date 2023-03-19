@@ -4,4 +4,4 @@ This task is part of the Data Science & Business Analytics Internship at The Spa
 
 Dataset: http://bit.ly/w-data
 
-YouTube link: https://www.youtube.com/watch?v=G8o_0OAngGQ
+YouTube link: https://www.youtube.com/watch?v=vuwuwy4rcwo
